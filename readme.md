@@ -37,16 +37,16 @@
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 
 ## **Currently Learning**
-- 🧱 Microservices Architecture
-- 🐳 Docker and Kubernetes
-- ⚡ Advanced Next.js
-- 📱 React Native for cross-platform mobile apps
+- Microservices Architecture
+- Docker and Kubernetes
+- Advanced Next.js
+- React Native for cross-platform mobile apps
 
 ## **Github Stats**
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brodrigues1990&layout=compact&theme=dark&hide_border=true)
 
 ## **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rodrigues-53099a1a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brodrigues1990/)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brodrigues1990) -->
 
 ---
