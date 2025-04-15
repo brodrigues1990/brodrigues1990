@@ -35,12 +35,12 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-
+<!-- 
 ## **Currently Learning**
 - Microservices Architecture
 - Docker and Kubernetes
 - Advanced Next.js
-- React Native for cross-platform mobile apps
+- React Native for cross-platform mobile apps -->
 
 ## **Github Stats**
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brodrigues1990&layout=compact&theme=dark&hide_border=true)
